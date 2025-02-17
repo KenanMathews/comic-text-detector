@@ -107,9 +107,6 @@ The application will be available at `http://localhost:5173`
 4. Push to your branch
 5. Create a Pull Request
 
-## License
-
-[Your chosen license]
 
 ## Acknowledgments
 
